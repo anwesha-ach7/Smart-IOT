@@ -1,0 +1,13 @@
+Aloe Gel, Mamaearth, 120, 400, London
+Body Lotion, Vaseline, 180, 600, Canada
+Day Cream, Ponds Lotion, 200, 500, UK
+Face Pack, The Lotus, 130, 450, Japan
+Face Toner, Biotique, 100, 300, China
+Face Wash, Real Nivea, 150, 350, Germany
+Hair Oil, Parachute, 220, 250, England
+Hand Wash, Dettol   , 160, 200, USA
+Lip Balm, Himalaya, 250, 150, India
+Night Cream, Olay Lotion, 90, 850, USA
+Skin Cleanser, Cetaphil, 100, 280, Switzerland
+Sunscreen, Aqualogica, 200, 700, India
+Vit. C Serum, Garnier   , 200, 1000, France
